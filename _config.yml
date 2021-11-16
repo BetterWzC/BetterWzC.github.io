@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
   A personal blog based jekyll, font-end, back-end, test.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: https://BetterWzC.github.io
 
 github:
   username: BetterWzC             # change to your github username
