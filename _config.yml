@@ -26,8 +26,7 @@ description: >-                        # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url:  ''
-plugins:
-        - jekyll-sitemap
+
 github:
   username: BetterWzC             # change to your github username
 
@@ -134,11 +133,7 @@ defaults:
       layout: page
       permalink: /:title/
       dynamic_title: true    # Hide title in mobile screens.
-  - 
-    scope:
-      path: "assets/**/*.pdf"
-    values:
-      sitemap: false
+
 sass:
   style: compressed
 
